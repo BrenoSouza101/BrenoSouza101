@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Breno de Souza
 
-**`Desenvolvedor em formação`**
+**`Desenvolvedor Começando`**
 
 Me chamo Breno de Souza, atualmente estou cursando o **1º semestre de Desenvolvimento de Software**. Apesar de estar iniciando minha jornada acadêmica, estudo outras linguagens e tecnologias por conta própria, buscando sempre aprender e evoluir como desenvolvedor.
 
